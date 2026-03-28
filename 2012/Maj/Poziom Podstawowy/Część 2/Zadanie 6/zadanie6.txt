@@ -1,0 +1,33 @@
+a)
+
+imie	        nazwisko   	
+Piotr	        Bogasiuk	
+Anastazja	    Chojnawiak	
+Marcin	        Chojnik	
+Karol	        Kaczmarczyk	
+Dominik	        Kaczmarek	
+Mariusz	        Lis	
+Katarzyna	    Weber	
+
+b)
+
+ile_kandydatów_zgłosiło_się_na_informatykę: 55 	
+
+ile_kandydatów_zgłosiło_się_na_matematykę: 38 	
+
+ile_kandydatów_zgłosiło_się_na_fizykę: 48
+
+
+c)
+	
+Maciej	Janczak	
+Krzysztof	Peszek	
+
+d)
+
+Ile mężczyzn: 40
+Ile kobiet: 15
+
+e)
+
+średnia z matematyki osób zapisanych na fizykę: 71,56
