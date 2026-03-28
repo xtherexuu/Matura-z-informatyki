@@ -28,8 +28,48 @@ liczba_pojazdów_wziętych_w_leasing: 13
 
 d)
 
+powiat   	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bedzinski	
+bialostocki	
+braniewski	
+buski	
+elblaski	
+elblaski	
+elcki	
+gorowski	
+jeleniogorski	
+jeleniogorski	
+koscianski	
+leczynski	
+lubelski	
+lubelski	
+nyski	
+nyski	
+olawski	
+olsztynski	
+opolski	
+opolski	
+pilski	
+siemiatycki	
+tarnogorski	
+turecki	
+zamojski	
+
+
+e) 
+
 firma	    średnia_rata_miesięczna_w_zł   	
 BARTEX	    2325.64	
 WIET-IND	2556.43	
 REFAMUR	    2590.13	
-
