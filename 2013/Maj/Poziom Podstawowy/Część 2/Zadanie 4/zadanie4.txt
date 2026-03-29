@@ -1,0 +1,26 @@
+a)
+Napisów o parzystej długości jest: 504
+
+b)
+Napisów składających się z tej samej ilości zer co jedynek jest: 110
+
+c)
+Napisów składających się z samych zer jest: 32
+Napisów składających się z samych jedynek jest: 50
+
+d)
+Napisów od długości 2 jest: 43
+Napisów od długości 3 jest: 38
+Napisów od długości 4 jest: 37
+Napisów od długości 5 jest: 57
+Napisów od długości 6 jest: 53
+Napisów od długości 7 jest: 68
+Napisów od długości 8 jest: 78
+Napisów od długości 9 jest: 103
+Napisów od długości 10 jest: 83
+Napisów od długości 11 jest: 90
+Napisów od długości 12 jest: 86
+Napisów od długości 13 jest: 81
+Napisów od długości 14 jest: 68
+Napisów od długości 15 jest: 59
+Napisów od długości 16 jest: 56
