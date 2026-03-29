@@ -22,4 +22,6 @@ for napis in dane:
     if licznik_jedynek == 0:
         licznik_samych_zer += 1
 
-print(f"Napisów składających się z samych zer jest: {licznik_samych_zer}\nNapisów składających się z samych jedynek jest: {licznik_samych_jedynek}")
+print(
+    f"Napisów składających się z samych zer jest: {licznik_samych_zer}\nNapisów składających się z samych jedynek jest: {licznik_samych_jedynek}"
+)
