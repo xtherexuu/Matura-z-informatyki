@@ -1,0 +1,8 @@
+a)
+447
+b)
+324
+c)
+Ilość liczb spełniających warunek: 49
+Największa z liczb spełniających warunek: 1133357
+Najmniejsza z liczb spełniających warunek: 24
